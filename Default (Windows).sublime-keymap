@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["alt+q"],
+		"command": "devdocs_query"
+	}
+]
